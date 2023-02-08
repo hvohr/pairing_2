@@ -5,3 +5,13 @@ if (isBest = true) {
 } else {
     console.log("Peter")
 }
+
+var age = 18
+var secondFriend = "Mickey"
+if (age > 21) {
+    console.log(bestFriend)
+} else if (age <= 21 && age > 8){
+    console.log("Peter")
+} else {
+    console.log(secondFriend)
+}
